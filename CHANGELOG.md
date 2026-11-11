@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added HOTP/TOTP implementation with replay-safe verification, otpauth URI generation, and hashed recovery codes.
 - Initial project structure from the factory utility template.
